@@ -501,4 +501,4 @@ class UserRoleDataServiceListeners extends AbstractUserDataServiceListeners
             $roles
         );
     }
-} 
+}
