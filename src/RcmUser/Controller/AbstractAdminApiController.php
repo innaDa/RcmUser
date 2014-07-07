@@ -116,6 +116,7 @@ class AbstractAdminApiController extends AbstractRestfulController
      */
     public function getJsonResponse($result)
     {
+
         $view = new JsonModel();
         $view->setTerminal(true);
 
